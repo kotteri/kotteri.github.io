@@ -1,1 +1,3 @@
+baseurl: ""
+url: "https://kotteri.github.io"
 theme: jekyll-theme-slate
